@@ -1,0 +1,3 @@
+﻿  LabMPI.cpp
+D:\VSU-Labs-git\6-sem\PP-RVS-MPI\5-lab\15\LabMPI\LabMPI\LabMPI.cpp(68,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LabMPI.vcxproj -> D:\VSU-Labs-git\6-sem\PP-RVS-MPI\5-lab\15\LabMPI\x64\Debug\LabMPI.exe
