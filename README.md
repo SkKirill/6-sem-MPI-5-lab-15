@@ -1,6 +1,6 @@
 ### Скоморохов Кирилл | 8 (900) 988-75-37 | Т-Банк | tg = @sk_kiriII  | vk = sk_kirill | VisualStudio2022 | C++
 
-> Стоимость - 800₽
+> **Стоимость - 800₽**
 
 # Задача 15
 
@@ -59,3 +59,9 @@ Results:
    sum(A[3,k]*B[k,3]) = 142
  Minimum = 89
 ```
+
+# Установка VisualStudio2022 и C++
+
+- [Переходим по ссылке  и скачиваем себе Visual Studio 2022](https://visualstudio.microsoft.com/ru/vs/)
+- Заходим в Visual Studio Installer и в модификацию IDE добавляем ***Desktop development with C++***
+- Скачиваем около 9 гигов и все С++ установлен!
