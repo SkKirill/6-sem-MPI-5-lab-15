@@ -96,7 +96,8 @@ int main(int argc, char* argv[])
 		strncat(str, "]) = ", 5); _itoa(current, buf, 10); strncat(str, buf, strlen(buf)); strncat(str, "\n", 2);
 	}
 	// печать результата
-	strncat(str, " Minimum = ", 11); _itoa(min, buf, 10); strncat(str, buf, strlen(buf)); strncat(str, "\n", 2); printf("%s\n", str);
+	strncat(str, " Minimum = ", 11); _itoa(min, buf, 10); strncat(str, buf, strlen(buf)); strncat(str, "\n", 2); 
+	printf("%s\n", str);
 
 	MPI_Comm_free(&new_comm);
 	free(A);
